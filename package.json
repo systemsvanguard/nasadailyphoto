@@ -1,0 +1,61 @@
+{
+  "name": "nasadailyphoto",
+  "version": "1.3.6",
+  "private": false,
+  "description": "A React.js based demo and portfolio web app displaying using a NASA web API, environment variables, a CSS framework, React Router, HTML 5, JavaScript, CSS, Google Fonts, and FontAwesome icons, and more. React.js built for production then deployed to a simple Apache based shared web host as a means of testing various React.js deploy methods. Enjoy! Demo site is http://nasadailyphoto.ryanhunter.ca/ .",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/systemsvanguard/nasadailyphoto.git"
+  },
+  "keywords": [
+    "React.js",
+    "React Router 4",
+    "NASA public API",
+    "Axios",
+    "Cirrus UI CSS framework",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "FontAwesome"
+  ],
+  "author": "Ryan Hunter | GitHub handle: SystemsVanguard | Web: www.ryanhunter.org | Location: Toronto ON Canada | Email: Ryan@ryanHunter.org ",
+  "license": "MIT",
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "axios": "^0.19.2",
+    "bulma": "^0.8.2",
+    "cirrus-ui": "^0.5.5",
+    "dotenv": "^8.2.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3",
+    "eslint-plugin-react-hooks": "^1.7.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

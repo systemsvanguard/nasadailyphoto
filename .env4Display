@@ -1,0 +1,11 @@
+PORT=3004  
+WEBHOST=localhost
+# API target https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY  
+# change the key accordingly
+REACT_APP_API_KEY=DEMO_KEY  
+# REACT_APP_API_KEY=abcdeFGHijklmNOPqrsTUVwxYZ123
+# Example ~ fake : https://api.nasa.gov/planetary/apod?api_key=abcdeFGHijklmNOPqrsTUVwxYZ123 
+HOST=localhost
+USER=vanguard
+PASSWORD=myFakeDbP@55w0rd!
+DB=codingvanguard  
